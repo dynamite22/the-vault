@@ -166,6 +166,7 @@ nav a.active {
 }
 
 .facility {
+  margin-bottom: 10px;
   background: var(--light);
   border-radius: 8px;
   overflow: hidden;
