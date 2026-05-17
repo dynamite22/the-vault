@@ -190,7 +190,7 @@ nav a.active {
 /* HOURS SECTION */
 .hours {
   background: var(--light);
-  padding: 40px 20px;
+  padding: 40px 10px;
   border-radius: 10px;
   margin-top: 60px;
   text-align: center;
@@ -417,6 +417,14 @@ footer {
   margin-top: 50px;
 }
 
+.from{
+  margin-bottom: 10px;
+}
+
+.our{
+  font-size: 30px;
+}
+
 /* RESPONSIVE BREAKPOINTS */
 @media (min-width: 640px) {
   .cards, .grid, .team, .access-grid, .gym-grid {
@@ -457,4 +465,5 @@ footer {
   height: 200px;
   object-fit: cover;
 }
+
 }
